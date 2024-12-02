@@ -6,7 +6,7 @@ Created on Sat Jun  1 20:58:42 2024
 """
 
 # GMT312 GLOBAL NAVIGATION SATELLITE SYSTEMS ASSIGNMENT IV
-# Author: IBRAHIM YEGEN - STUDENT NO: 2200674030 - 10.05.2024
+# Author: IBRAHIM YEGEN  10.05.2024
 
 # This script performs Single Point Positioning (SPP) to determine the 3D coordinates 
 # (X, Y, Z in the ECEF coordinate system) of the MERS station on March 1, 2024. The script 
