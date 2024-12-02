@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # GMT312 - REFERENCE COORDINATE SYSTEMS - ASSIGNMENT I
-# Author: @IBRAHIM YEGEN - STUDENT NO: 2200674030 2200674030 05.04.2024
+# Author: @IBRAHIM YEGEN 
 
 #  The purpose of the "xyz2blh" function is to convert x, y and z cartesian coordinate inputs 
 # to ellipsoid coordinates with iterative solution. The iterations are repeated until the change
