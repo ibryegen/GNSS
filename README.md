@@ -24,18 +24,7 @@ Coordinate Transformations:
 
 Convert between Cartesian (XYZ) and geodetic (latitude, longitude, height) systems.
 Transform global coordinates to local topocentric coordinates.
-Visualization:
-
-Plot Lagrange interpolation results.
 
 
-File Descriptions
-assignment2.py: Calculates GNSS satellite positions using broadcast ephemeris data.
-blhandlocal.py: Functions for coordinate transformations and local system conversions.
-cal_sp3.py: Implements satellite position calculation using precise ephemeris data and Lagrange interpolation.
-lagrange.py: Handles 9th-degree Lagrange interpolation for satellite coordinates.
-rotation.py: Performs coordinate rotations for transformations.
-sat_pos.py: Calculates emission times and final satellite positions.
-Ion_Klobuchar.py: Computes ionospheric delays using Klobuchar model.
-trop_SPP.py: Estimates tropospheric delays (dry and wet).
-atmos.py: Main script integrating all components for delay calculations and coordinate transformations.
+
+
